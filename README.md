@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishnay</h1>
+<h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">🖥️ I am a Jr. Front-End developer with several months of experience. 🖥️</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lufyjs&label=Profile%20views&color=0e75b6&style=flat" alt="lufyjs" /> </p>
